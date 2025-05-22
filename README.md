@@ -31,7 +31,7 @@ Execute o jogo:
 pyhton APP.PY
 ```
 
-####📝 Arquivo de palavras
+#### 📝 Arquivo de palavras
 O jogo utiliza um arquivo palavras.txt contendo uma palavra por linha. Você pode personalizar este arquivo com suas próprias palavras.
 
 #### 🛠️ Estrutura do Código
